@@ -1,0 +1,23 @@
+# React / Vite
+dfb-frontend/node_modules/
+dfb-frontend/dist/
+dfb-frontend/.env
+dfb-frontend/.env.local
+dfb-frontend/.env.production
+
+# Spring Boot / Maven
+dfb-backend/target/
+dfb-backend/.idea/
+dfb-backend/*.iml
+
+# IntelliJ
+.idea/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# OS files
+.DS_Store
+Thumbs.db
